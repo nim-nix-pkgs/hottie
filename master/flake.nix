@@ -11,7 +11,6 @@
   inputs.src-hottie-master.ref   = "refs/heads/master";
   inputs.src-hottie-master.owner = "treeform";
   inputs.src-hottie-master.repo  = "hottie";
-  inputs.src-hottie-master.dir   = "";
   inputs.src-hottie-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
